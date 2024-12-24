@@ -1,0 +1,11 @@
+print(5>9 and 8==8)
+print(9<3 or 5>2)
+print(3>7 and 1==1 + 9<3 or 6>2)
+print(15>29 and 7==2+6)
+b=False
+print(not b and 8*5>3)
+print(not(5+6>2  and 8<9+2 ))
+print(5>=4 and 9-4>9)
+print(8!=3 and 4==9 or 5>1+18)
+print(not(9>=3 and 7<=3**7 - 8 + 4*5))
+print(24>61 or 7<9 and 8>5+6*2)
